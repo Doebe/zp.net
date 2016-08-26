@@ -1,0 +1,1 @@
+This is a template from "https://github.com/kriasoft/react-starter-kit/blob/master/docs/getting-started.md" for practicing and learning purpose only.
